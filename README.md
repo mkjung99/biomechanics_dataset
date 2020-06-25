@@ -1,6 +1,6 @@
 # Biomechanics dataset
 Informatio of public available data sets for biomechanics.
-Please check the license of invidual data set before its use.
+Please check the license of invidual data set before using it.
 
 ## Motion capture data sets (C3D format)
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
