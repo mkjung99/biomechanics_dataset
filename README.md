@@ -13,3 +13,15 @@ Please check the license of invidual data set before using it.
 
 ## Motion capture data sets (other formats)
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
+
+## C3D libraries
+- [C3Dserver](https://www.c3dserver.com/)
+- [BTK](https://github.com/Biomechanical-ToolKit/)
+- [EZC3D](https://github.com/pyomeca/ezc3d)
+
+## C3D applications
+- [PyC3Dserver](https://github.com/mkjung99/pyc3dserver)
+- [MOtoNMS](https://github.com/RehabEngGroup/MOtoNMS)
+
+## References
+- [C3D.ORG](https://www.c3d.org/)
