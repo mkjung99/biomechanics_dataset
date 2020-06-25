@@ -20,8 +20,8 @@ Please check the license of invidual data set before using it.
 - [EZC3D](https://github.com/pyomeca/ezc3d)
 
 ## C3D applications
-- [PyC3Dserver](https://github.com/mkjung99/pyc3dserver)
-- [MOtoNMS](https://github.com/RehabEngGroup/MOtoNMS)
+- For Python: [PyC3Dserver](https://github.com/mkjung99/pyc3dserver)
+- For MATLAB: [MOtoNMS](https://github.com/RehabEngGroup/MOtoNMS)
 
 ## References
 - [C3D.ORG](https://www.c3d.org/)
