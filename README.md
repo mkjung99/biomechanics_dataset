@@ -1,5 +1,5 @@
 # Biomechanics dataset
-Information of public available data sets for biomechanics.
+Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
 ## Motion capture data sets (C3D format)
