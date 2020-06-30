@@ -5,6 +5,7 @@ Please check the license of invidual data set before using it.
 ## Motion capture data sets (C3D format)
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
 - SFU Motion Capture Database: http://mocap.cs.sfu.ca/
+- Orthoload: https://orthoload.com/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
 - Horst, Fabian; Lapuschkin, Sebastian; Samek, Wojciech; Müller, Klaus-Robert; Schöllhorn, Wolfgang I. (2019), “A public dataset of overground walking kinetics and full-body kinematics in healthy adult individuals”, Mendeley Data, v3 http://dx.doi.org/10.17632/svx74xcrjr.3
 - Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
@@ -21,10 +22,10 @@ Please check the license of invidual data set before using it.
 - AnDyDataset: https://andydataset.loria.fr/
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
-- Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
 - De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
 - Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
 - Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
+- Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
 - Malaisé, Adrien, Maurice, Pauline, Ivaldi, Serena, Colas, Francis, & Rochel, Olivier. (2018). AndyData-lab-onePersonWithShoes (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1472122
 - Maurice, Pauline, Camernik, Jernej, Gorjan, Dasa, Babic, Jan, Schirrmeister, Benjamin, Bornmann, Jonas, … Pucci, Daniele. (2018). AndyData-lab-onePersonWithExoskeleton (Version 1) [Data set]. IEEE Transactions on Neural Systems and Rehabilitation Engineering. Zenodo. http://doi.org/10.5281/zenodo.1472214
 
