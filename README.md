@@ -23,6 +23,7 @@ Please check the license of invidual data set before using it.
 - Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
 - Malaisé, Adrien, Maurice, Pauline, Ivaldi, Serena, Colas, Francis, & Rochel, Olivier. (2018). AndyData-lab-onePersonWithShoes (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1472122
 - Maurice, Pauline, Camernik, Jernej, Gorjan, Dasa, Babic, Jan, Schirrmeister, Benjamin, Bornmann, Jonas, … Pucci, Daniele. (2018). AndyData-lab-onePersonWithExoskeleton (Version 1) [Data set]. IEEE Transactions on Neural Systems and Rehabilitation Engineering. Zenodo. http://doi.org/10.5281/zenodo.1472214
+- The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 
 ## C3D libraries
 - [C3Dserver](https://www.c3dserver.com/)
