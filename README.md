@@ -4,6 +4,7 @@ Please check the license of invidual data set before using it.
 
 ## Motion capture data sets (C3D format)
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
+- SFU Motion Capture Database: http://mocap.cs.sfu.ca/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
 - Horst, Fabian; Lapuschkin, Sebastian; Samek, Wojciech; Müller, Klaus-Robert; Schöllhorn, Wolfgang I. (2019), “A public dataset of overground walking kinetics and full-body kinematics in healthy adult individuals”, Mendeley Data, v3 http://dx.doi.org/10.17632/svx74xcrjr.3
 - Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
