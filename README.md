@@ -19,6 +19,7 @@ Please check the license of invidual data set before using it.
 - AnDyDataset: https://andydataset.loria.fr/
 - Malaisé, Adrien, Maurice, Pauline, Ivaldi, Serena, Colas, Francis, & Rochel, Olivier. (2018). AndyData-lab-onePersonWithShoes (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1472122
 - Maurice, Pauline, Camernik, Jernej, Gorjan, Dasa, Babic, Jan, Schirrmeister, Benjamin, Bornmann, Jonas, … Pucci, Daniele. (2018). AndyData-lab-onePersonWithExoskeleton (Version 1) [Data set]. IEEE Transactions on Neural Systems and Rehabilitation Engineering. Zenodo. http://doi.org/10.5281/zenodo.1472214
+- Santuz, Alessandro, Ekizos, Antonis, Janshen, Lars, Mersmann, Falk, Bohm, Sebastian, Baltzopoulos, Vasilios, & Arampatzis, Adamantios. (2020). Modular control of human movement during running: an open access data set (Version 1.3.0) [Data set]. Frontiers in Physiology | Exercise Physiology. Zenodo. http://doi.org/10.5281/zenodo.3785076
 
 ## C3D libraries
 - [C3Dserver](https://www.c3dserver.com/)
