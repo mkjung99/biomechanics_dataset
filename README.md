@@ -17,6 +17,7 @@ Please check the license of invidual data set before using it.
 - Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
 - Drew, Alex J., Izykowski, Morgan T., Bachus, Kent N., Henninger, Heath B., & Foreman, K. Bo. (2017). Transhumeral Loading During Advanced Upper Extremity Activities of Daily Living [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1040453
+- Huang, Yu-Fen; Moran, Nikki; Coleman, Simon. (2017). Orchestral conducting motion capture data, 2015 [dataset]. Reid School of Music, University of Edinburgh; Institute for Sport, Physical Education and Health Sciences, University of Edinburgh. https://doi.org/10.7488/ds/2223.
 - Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 
 ## Motion capture data sets (other formats)
