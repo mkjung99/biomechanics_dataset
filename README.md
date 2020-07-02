@@ -34,6 +34,7 @@ Please check the license of invidual data set before using it.
 ## Other data sets
 - Santuz, Alessandro, Ekizos, Antonis, Janshen, Lars, Mersmann, Falk, Bohm, Sebastian, Baltzopoulos, Vasilios, & Arampatzis, Adamantios. (2020). Modular control of human movement during running: an open access data set (Version 1.3.0) [Data set]. Frontiers in Physiology | Exercise Physiology. Zenodo. http://doi.org/10.5281/zenodo.3785076
 - Santuz, Alessandro, Brüll, Leon, Ekizos, Antonis, Schroll, Arno, Eckardt, Nils, Kibele, Armin, … Arampatzis, Adamantios. (2020). Neuromotor dynamics of human locomotion in challenging settings (Version 2.3.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3785065
+- Wang, Huawei, & van den Bogert, Antonie. (2020). Standing Balance Experiment with Long Duration Random Pulses Perturbation (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3819630
 - Horsak, Brian; Slijepcevic, Djordje; Raberger, Anna-Maria; Schwab, Caterine; Worisch, Marianne; Zeppelzauer, Matthias (2020): GaitRec: A large-scale ground reaction force dataset of healthy and impaired gait. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4788012.v1
 - Kerkman, Jennifer, Daffertshofer, Andreas, & Boonstra, Tjeerd. (2018). Muscle activity, ground reaction forces and pointing performance during postural control tasks in healthy adults [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1185196
 
