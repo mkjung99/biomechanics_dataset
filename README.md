@@ -3,9 +3,10 @@ Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
 ## Motion capture data sets (C3D format)
+- Orthoload: https://orthoload.com/
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
 - SFU Motion Capture Database: http://mocap.cs.sfu.ca/
-- Orthoload: https://orthoload.com/
+- Mocap Database HDM05: http://resources.mpi-inf.mpg.de/HDM05/index.html
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
 - Horst, Fabian; Lapuschkin, Sebastian; Samek, Wojciech; Müller, Klaus-Robert; Schöllhorn, Wolfgang I. (2019), “A public dataset of overground walking kinetics and full-body kinematics in healthy adult individuals”, Mendeley Data, v3 http://dx.doi.org/10.17632/svx74xcrjr.3
 - Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
@@ -23,6 +24,7 @@ Please check the license of invidual data set before using it.
 
 ## Motion capture data sets (other formats)
 - AnDyDataset: https://andydataset.loria.fr/
+- HuMoD Database: https://www.sim.informatik.tu-darmstadt.de/res/ds/humod/
 - Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
