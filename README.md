@@ -31,6 +31,7 @@ Please check the license of invidual data set before using it.
 - Emotional Body Motion Database: http://ebmdb.tuebingen.mpg.de/index.php
 - Human 3.6M: http://vision.imar.ro/human3.6m/
 - Berkeley Multimodal Human Action Database (MHAD): https://tele-immersion.citris-uc.org/berkeley_mhad
+- Interaction Database CGVU @ The University of Edinburgh: http://www.ipab.inf.ed.ac.uk/cgvu/InteractionDatabase/interactiondb.html
 - Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
