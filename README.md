@@ -29,6 +29,7 @@ Please check the license of invidual data set before using it.
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
+- Donati, Elisa. (2019). EMG from forearm datasets for hand gestures recognition [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3194792
 - Jarque-Bou, Nestor, Vergara, Margarita, Sancho-Bru, Joaquín L., Gracia-Ibáñez, Verónica, & Roda-Sales, Alba. (2019). A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3469380
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
 - De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
