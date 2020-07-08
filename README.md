@@ -5,6 +5,7 @@ Please check the license of invidual data set before using it.
 ## Motion capture data sets (C3D format)
 - Orthoload: https://orthoload.com/
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
+- University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
 - SFU Motion Capture Database: http://mocap.cs.sfu.ca/
 - Mocap Database HDM05: http://resources.mpi-inf.mpg.de/HDM05/index.html
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
