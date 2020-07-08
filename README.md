@@ -41,6 +41,7 @@ Please check the license of invidual data set before using it.
 - Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
 
 ## Other data sets
+- Ilaria Mileti, Aurora Serra, Nerses Wolf, Victor Munoz-Martel, Antonis Ekizos, Eduardo Palermo, … Alessandro Santuz. (2020). Muscle activation patterns are more constrained and regular in treadmill than in overground human locomotion (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3932768
 - Santuz, Alessandro, Ekizos, Antonis, Janshen, Lars, Mersmann, Falk, Bohm, Sebastian, Baltzopoulos, Vasilios, & Arampatzis, Adamantios. (2020). Modular control of human movement during running: an open access data set (Version 1.3.0) [Data set]. Frontiers in Physiology | Exercise Physiology. Zenodo. http://doi.org/10.5281/zenodo.3785076
 - Santuz, Alessandro, Brüll, Leon, Ekizos, Antonis, Schroll, Arno, Eckardt, Nils, Kibele, Armin, … Arampatzis, Adamantios. (2020). Neuromotor dynamics of human locomotion in challenging settings (Version 2.3.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3785065
 - Wang, Huawei, & van den Bogert, Antonie. (2020). Standing Balance Experiment with Long Duration Random Pulses Perturbation (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3819630
