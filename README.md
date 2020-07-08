@@ -28,10 +28,11 @@ Please check the license of invidual data set before using it.
 ## Motion capture data sets (other formats)
 - AnDyDataset: https://andydataset.loria.fr/
 - HuMoD Database: https://www.sim.informatik.tu-darmstadt.de/res/ds/humod/
-- Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
-- The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Emotional Body Motion Database: http://ebmdb.tuebingen.mpg.de/index.php
 - Human 3.6M: http://vision.imar.ro/human3.6m/
+- Berkeley Multimodal Human Action Database (MHAD): https://tele-immersion.citris-uc.org/berkeley_mhad
+- Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
+- The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
 - Donati, Elisa. (2019). EMG from forearm datasets for hand gestures recognition [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3194792
