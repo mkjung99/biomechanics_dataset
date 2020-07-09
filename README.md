@@ -2,30 +2,32 @@
 Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
-## Motion capture data sets (C3D format)
+## Motion capture (markers and forces) data sets (C3D format)
 - Orthoload: https://orthoload.com/
-- KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
-- SFU Motion Capture Database: http://mocap.cs.sfu.ca/
-- Mocap Database HDM05: http://resources.mpi-inf.mpg.de/HDM05/index.html
-- UMONS-TAICHI: https://github.com/numediart/UMONS-TAICHI ([data](https://zenodo.org/record/2784581))
-- Dance Motion Capture Database: http://dancedb.eu/
+- Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 - University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
 - Horst, Fabian; Lapuschkin, Sebastian; Samek, Wojciech; Müller, Klaus-Robert; Schöllhorn, Wolfgang I. (2019), “A public dataset of overground walking kinetics and full-body kinematics in healthy adult individuals”, Mendeley Data, v3 http://dx.doi.org/10.17632/svx74xcrjr.3
 - Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
 - Matijevich, E. S., Branscombe, L. M., Scott, L. R., & Zelik, K. E. (2019). Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: Implications for science, sport and wearable tech. PloS one, 14(1), e0210000. https://doi.org/10.1371/journal.pone.0210000 ([data](https://zenodo.org/record/3460691))
 - Honert, Eric C., & Zelik, Karl E. (2019). Dataset from: Honert and Zelik (2019) "Foot and shoe responsible for majority of soft tissue work in early stance of walking" [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2547035
-- Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
-- Caravan A, Scheffey JO, Briend SJ, Boddy KJ. 2018. Surface electromyographic analysis of differential effects in kettlebell carries for the serratus anterior muscles. PeerJ 6:e5044 https://doi.org/10.7717/peerj.5044 ([data](https://figshare.com/authors/Kyle_Boddy/5269118))
 - Ozkaya, Gizem; Jung, Hae Ryun; Jeong, In Sub; Choi, Min Ra; Shin, Min Young; Lin, Xue; et al. (2018): Three-dimensional motion capture data during repetitive overarm throwing practice. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4017808.v1
 - Lunn, David and Chapman, Graham and Redmond, Anthony (2018) Motion analysis in total joint replacement patients: Data Release 1. University of Leeds. [Dataset] https://doi.org/10.5518/345
 - Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
+
+## Motion capture (markers only) data sets (C3D format)
+- KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
+- SFU Motion Capture Database: http://mocap.cs.sfu.ca/
+- Mocap Database HDM05: http://resources.mpi-inf.mpg.de/HDM05/index.html
+- UMONS-TAICHI: https://github.com/numediart/UMONS-TAICHI ([data](https://zenodo.org/record/2784581))
+- Dance Motion Capture Database: http://dancedb.eu/
+- Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
+- Caravan A, Scheffey JO, Briend SJ, Boddy KJ. 2018. Surface electromyographic analysis of differential effects in kettlebell carries for the serratus anterior muscles. PeerJ 6:e5044 https://doi.org/10.7717/peerj.5044 ([data](https://figshare.com/authors/Kyle_Boddy/5269118))
 - Drew, Alex J., Izykowski, Morgan T., Bachus, Kent N., Henninger, Heath B., & Foreman, K. Bo. (2017). Transhumeral Loading During Advanced Upper Extremity Activities of Daily Living [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1040453
 - Huang, Yu-Fen; Moran, Nikki; Coleman, Simon. (2017). Orchestral conducting motion capture data, 2015 [dataset]. Reid School of Music, University of Edinburgh; Institute for Sport, Physical Education and Health Sciences, University of Edinburgh. https://doi.org/10.7488/ds/2223.
-- Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 
-## Motion capture data sets (other formats)
+## Motion capture (markers and/or forces) data sets (other formats)
 - AnDyDataset: https://andydataset.loria.fr/
 - HuMoD Database: https://www.sim.informatik.tu-darmstadt.de/res/ds/humod/
 - Emotional Body Motion Database: http://ebmdb.tuebingen.mpg.de/index.php
