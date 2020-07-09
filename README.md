@@ -27,6 +27,7 @@ Please check the license of invidual data set before using it.
 - Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - AnDyDataset: https://andydataset.loria.fr/
 - Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
+- Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
 - Malaisé, Adrien, Maurice, Pauline, Ivaldi, Serena, Colas, Francis, & Rochel, Olivier. (2018). AndyData-lab-onePersonWithShoes (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1472122
 - Maurice, Pauline, Camernik, Jernej, Gorjan, Dasa, Babic, Jan, Schirrmeister, Benjamin, Bornmann, Jonas, … Pucci, Daniele. (2018). AndyData-lab-onePersonWithExoskeleton (Version 1) [Data set]. IEEE Transactions on Neural Systems and Rehabilitation Engineering. Zenodo. http://doi.org/10.5281/zenodo.1472214
 - Caravan A, Scheffey JO, Briend SJ, Boddy KJ. 2018. Surface electromyographic analysis of differential effects in kettlebell carries for the serratus anterior muscles. PeerJ 6:e5044 https://doi.org/10.7717/peerj.5044 ([data](https://figshare.com/authors/Kyle_Boddy/5269118))
@@ -46,7 +47,6 @@ Please check the license of invidual data set before using it.
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
 - De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
 - Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
-- Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
 - Vieten, Manfred, & Weich, Christian. (2019). The kinematics of cyclic human movement [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3518415
 - Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
 
