@@ -2,9 +2,8 @@
 Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
-## Motion capture (markers and forces) data sets (C3D format)
+## Motion capture (markers and forces) data sets (including C3D files)
 - Orthoload: https://orthoload.com/
-- Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 - University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
 - Horst, Fabian; Lapuschkin, Sebastian; Samek, Wojciech; Müller, Klaus-Robert; Schöllhorn, Wolfgang I. (2019), “A public dataset of overground walking kinetics and full-body kinematics in healthy adult individuals”, Mendeley Data, v3 http://dx.doi.org/10.17632/svx74xcrjr.3
@@ -15,27 +14,30 @@ Please check the license of invidual data set before using it.
 - Lunn, David and Chapman, Graham and Redmond, Anthony (2018) Motion analysis in total joint replacement patients: Data Release 1. University of Leeds. [Dataset] https://doi.org/10.5518/345
 - Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
+- Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 
-## Motion capture (markers only) data sets (C3D format)
+## Motion capture (markers only) data sets (including C3D files)
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
 - SFU Motion Capture Database: http://mocap.cs.sfu.ca/
 - Mocap Database HDM05: http://resources.mpi-inf.mpg.de/HDM05/index.html
 - UMONS-TAICHI: https://github.com/numediart/UMONS-TAICHI ([data](https://zenodo.org/record/2784581))
+- Berkeley Multimodal Human Action Database (MHAD): https://tele-immersion.citris-uc.org/berkeley_mhad
 - Dance Motion Capture Database: http://dancedb.eu/
+- The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
+- Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
+- AnDyDataset: https://andydataset.loria.fr/
 - Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
+- Malaisé, Adrien, Maurice, Pauline, Ivaldi, Serena, Colas, Francis, & Rochel, Olivier. (2018). AndyData-lab-onePersonWithShoes (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1472122
+- Maurice, Pauline, Camernik, Jernej, Gorjan, Dasa, Babic, Jan, Schirrmeister, Benjamin, Bornmann, Jonas, … Pucci, Daniele. (2018). AndyData-lab-onePersonWithExoskeleton (Version 1) [Data set]. IEEE Transactions on Neural Systems and Rehabilitation Engineering. Zenodo. http://doi.org/10.5281/zenodo.1472214
 - Caravan A, Scheffey JO, Briend SJ, Boddy KJ. 2018. Surface electromyographic analysis of differential effects in kettlebell carries for the serratus anterior muscles. PeerJ 6:e5044 https://doi.org/10.7717/peerj.5044 ([data](https://figshare.com/authors/Kyle_Boddy/5269118))
 - Drew, Alex J., Izykowski, Morgan T., Bachus, Kent N., Henninger, Heath B., & Foreman, K. Bo. (2017). Transhumeral Loading During Advanced Upper Extremity Activities of Daily Living [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1040453
 - Huang, Yu-Fen; Moran, Nikki; Coleman, Simon. (2017). Orchestral conducting motion capture data, 2015 [dataset]. Reid School of Music, University of Edinburgh; Institute for Sport, Physical Education and Health Sciences, University of Edinburgh. https://doi.org/10.7488/ds/2223.
 
-## Motion capture (markers and/or forces) data sets (other formats)
-- AnDyDataset: https://andydataset.loria.fr/
+## Motion capture (markers and/or forces) data sets (other formats only)
 - HuMoD Database: https://www.sim.informatik.tu-darmstadt.de/res/ds/humod/
 - Emotional Body Motion Database: http://ebmdb.tuebingen.mpg.de/index.php
 - Human 3.6M: http://vision.imar.ro/human3.6m/
-- Berkeley Multimodal Human Action Database (MHAD): https://tele-immersion.citris-uc.org/berkeley_mhad
 - Interaction Database CGVU @ The University of Edinburgh: http://www.ipab.inf.ed.ac.uk/cgvu/InteractionDatabase/interactiondb.html
-- Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
-- The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Luo, Yue; Coppola, Sarah; Dixon, Philippe; Li, Song; Dennerlein, Jack; Hu, Boyi (2020): A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4892463.v1
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
@@ -46,8 +48,6 @@ Please check the license of invidual data set before using it.
 - Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
 - Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
 - Vieten, Manfred, & Weich, Christian. (2019). The kinematics of cyclic human movement [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3518415
-- Malaisé, Adrien, Maurice, Pauline, Ivaldi, Serena, Colas, Francis, & Rochel, Olivier. (2018). AndyData-lab-onePersonWithShoes (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1472122
-- Maurice, Pauline, Camernik, Jernej, Gorjan, Dasa, Babic, Jan, Schirrmeister, Benjamin, Bornmann, Jonas, … Pucci, Daniele. (2018). AndyData-lab-onePersonWithExoskeleton (Version 1) [Data set]. IEEE Transactions on Neural Systems and Rehabilitation Engineering. Zenodo. http://doi.org/10.5281/zenodo.1472214
 - Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
 
 ## Other data sets
