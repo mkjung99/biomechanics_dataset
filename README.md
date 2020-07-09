@@ -2,7 +2,7 @@
 Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
-## Motion capture (markers and forces) data sets (including C3D files)
+## Motion capture (kinematics and forces) data sets (including C3D files)
 - Orthoload: https://orthoload.com/
 - University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
@@ -16,7 +16,7 @@ Please check the license of invidual data set before using it.
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
 - Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 
-## Motion capture (markers only) data sets (including C3D files)
+## Motion capture (kinematics only) data sets (including C3D files)
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
 - SFU Motion Capture Database: http://mocap.cs.sfu.ca/
 - Mocap Database HDM05: http://resources.mpi-inf.mpg.de/HDM05/index.html
@@ -34,7 +34,7 @@ Please check the license of invidual data set before using it.
 - Drew, Alex J., Izykowski, Morgan T., Bachus, Kent N., Henninger, Heath B., & Foreman, K. Bo. (2017). Transhumeral Loading During Advanced Upper Extremity Activities of Daily Living [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1040453
 - Huang, Yu-Fen; Moran, Nikki; Coleman, Simon. (2017). Orchestral conducting motion capture data, 2015 [dataset]. Reid School of Music, University of Edinburgh; Institute for Sport, Physical Education and Health Sciences, University of Edinburgh. https://doi.org/10.7488/ds/2223.
 
-## Motion capture (markers and/or forces) data sets (other formats only)
+## Motion capture (kinematics and/or forces) data sets (other formats only)
 - HuMoD Database: https://www.sim.informatik.tu-darmstadt.de/res/ds/humod/
 - Emotional Body Motion Database: http://ebmdb.tuebingen.mpg.de/index.php
 - Human 3.6M: http://vision.imar.ro/human3.6m/
