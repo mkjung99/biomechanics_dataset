@@ -34,6 +34,7 @@ Please check the license of invidual data set before using it.
 - Interaction Database CGVU @ The University of Edinburgh: http://www.ipab.inf.ed.ac.uk/cgvu/InteractionDatabase/interactiondb.html
 - Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
+- Luo, Yue; Coppola, Sarah; Dixon, Philippe; Li, Song; Dennerlein, Jack; Hu, Boyi (2020): A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4892463.v1
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
 - Donati, Elisa. (2019). EMG from forearm datasets for hand gestures recognition [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3194792
