@@ -2,7 +2,7 @@
 Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
-## Motion capture (kinematics + forces + EMG) data sets
+## [Kinematics + forces + EMG] data sets
 ### With C3D files
 - Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
 - Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
