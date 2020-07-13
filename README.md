@@ -9,7 +9,7 @@ Please check the license of invidual data set before using it.
 ### Other file formats
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
 
-## Motion capture (kinematics + forces/EMG) data sets
+## [Kinematics + forces/EMG] data sets
 ### With C3D files
 - Orthoload: https://orthoload.com/
 - Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
@@ -29,7 +29,7 @@ Please check the license of invidual data set before using it.
 - De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
 - Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
 
-## Motion capture (kinematics only) data sets
+## [Kinematics only] data sets
 ### With C3D files
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
 - SFU Motion Capture Database: http://mocap.cs.sfu.ca/
@@ -56,7 +56,7 @@ Please check the license of invidual data set before using it.
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
 - Vieten, Manfred, & Weich, Christian. (2019). The kinematics of cyclic human movement [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3518415
 
-## Other data sets
+## [Other] data sets
 - WhoLoDance: http://www.wholodance.eu/
 - AIST Gait Database 2019: https://unit.aist.go.jp/harc/ExPART/GDB2019_e.html
 - Ilaria Mileti, Aurora Serra, Nerses Wolf, Victor Munoz-Martel, Antonis Ekizos, Eduardo Palermo, … Alessandro Santuz. (2020). Muscle activation patterns are more constrained and regular in treadmill than in overground human locomotion (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3932768
