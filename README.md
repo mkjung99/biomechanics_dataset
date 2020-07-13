@@ -2,25 +2,32 @@
 Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
+## Motion capture (kinematics + forces + EMG) data sets
+### With C3D files
+- Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
+- Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
+### Other file formats
+- Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
+
 ## Motion capture (kinematics + forces/EMG) data sets
 ### With C3D files
 - Orthoload: https://orthoload.com/
+- Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
 - Horst, Fabian; Lapuschkin, Sebastian; Samek, Wojciech; Müller, Klaus-Robert; Schöllhorn, Wolfgang I. (2019), “A public dataset of overground walking kinetics and full-body kinematics in healthy adult individuals”, Mendeley Data, v3 http://dx.doi.org/10.17632/svx74xcrjr.3
-- Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
 - Matijevich, E. S., Branscombe, L. M., Scott, L. R., & Zelik, K. E. (2019). Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: Implications for science, sport and wearable tech. PloS one, 14(1), e0210000. https://doi.org/10.1371/journal.pone.0210000 ([data](https://zenodo.org/record/3460691))
 - Honert, Eric C., & Zelik, Karl E. (2019). Dataset from: Honert and Zelik (2019) "Foot and shoe responsible for majority of soft tissue work in early stance of walking" [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2547035
 - Ozkaya, Gizem; Jung, Hae Ryun; Jeong, In Sub; Choi, Min Ra; Shin, Min Young; Lin, Xue; et al. (2018): Three-dimensional motion capture data during repetitive overarm throwing practice. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4017808.v1
 - Lunn, David and Chapman, Graham and Redmond, Anthony (2018) Motion analysis in total joint replacement patients: Data Release 1. University of Leeds. [Dataset] https://doi.org/10.5518/345
 - Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
-- Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 ### Other file formats
-- Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
 - Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
 - Donati, Elisa. (2019). EMG from forearm datasets for hand gestures recognition [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3194792
 - Jarque-Bou, Nestor, Vergara, Margarita, Sancho-Bru, Joaquín L., Gracia-Ibáñez, Verónica, & Roda-Sales, Alba. (2019). A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3469380
+- De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
+- Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
 
 ## Motion capture (kinematics only) data sets
 ### With C3D files
@@ -31,7 +38,6 @@ Please check the license of invidual data set before using it.
 - Berkeley Multimodal Human Action Database (MHAD): https://tele-immersion.citris-uc.org/berkeley_mhad
 - Dance Motion Capture Database: http://dancedb.eu/
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
-- Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - AnDyDataset: https://andydataset.loria.fr/
 - Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
 - Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
@@ -48,8 +54,6 @@ Please check the license of invidual data set before using it.
 - Luo, Yue; Coppola, Sarah; Dixon, Philippe; Li, Song; Dennerlein, Jack; Hu, Boyi (2020): A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4892463.v1
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
-- De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
-- Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
 - Vieten, Manfred, & Weich, Christian. (2019). The kinematics of cyclic human movement [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3518415
 
 ## Other data sets
@@ -62,8 +66,6 @@ Please check the license of invidual data set before using it.
 - Wang, Huawei, & van den Bogert, Antonie. (2020). Standing Balance Experiment with Long Duration Random Pulses Perturbation (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3819630
 - Horsak, Brian; Slijepcevic, Djordje; Raberger, Anna-Maria; Schwab, Caterine; Worisch, Marianne; Zeppelzauer, Matthias (2020): GaitRec: A large-scale ground reaction force dataset of healthy and impaired gait. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4788012.v1
 - Kerkman, Jennifer, Daffertshofer, Andreas, & Boonstra, Tjeerd. (2018). Muscle activity, ground reaction forces and pointing performance during postural control tasks in healthy adults [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1185196
-
-
 
 ## C3D libraries
 - [C3Dserver](https://www.c3dserver.com/)
