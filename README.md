@@ -2,7 +2,8 @@
 Information of public available data sets for biomechanics.\
 Please check the license of invidual data set before using it.
 
-## Motion capture (kinematics and forces) data sets (including C3D files)
+## Motion capture (kinematics + forces) data sets
+### With C3D files
 - Orthoload: https://orthoload.com/
 - University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
@@ -16,7 +17,8 @@ Please check the license of invidual data set before using it.
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
 - Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 
-## Motion capture (kinematics only) data sets (including C3D files)
+## Motion capture (kinematics only) data sets
+### With C3D files
 - KIT Whole-Body Human Motion Database: https://motion-database.humanoids.kit.edu/
 - SFU Motion Capture Database: http://mocap.cs.sfu.ca/
 - Mocap Database HDM05: http://resources.mpi-inf.mpg.de/HDM05/index.html
@@ -33,12 +35,13 @@ Please check the license of invidual data set before using it.
 - Caravan A, Scheffey JO, Briend SJ, Boddy KJ. 2018. Surface electromyographic analysis of differential effects in kettlebell carries for the serratus anterior muscles. PeerJ 6:e5044 https://doi.org/10.7717/peerj.5044 ([data](https://figshare.com/authors/Kyle_Boddy/5269118))
 - Drew, Alex J., Izykowski, Morgan T., Bachus, Kent N., Henninger, Heath B., & Foreman, K. Bo. (2017). Transhumeral Loading During Advanced Upper Extremity Activities of Daily Living [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1040453
 - Huang, Yu-Fen; Moran, Nikki; Coleman, Simon. (2017). Orchestral conducting motion capture data, 2015 [dataset]. Reid School of Music, University of Edinburgh; Institute for Sport, Physical Education and Health Sciences, University of Edinburgh. https://doi.org/10.7488/ds/2223.
-
-## Motion capture (kinematics and/or forces) data sets (other formats only)
+### Other file formats
 - HuMoD Database: https://www.sim.informatik.tu-darmstadt.de/res/ds/humod/
 - Emotional Body Motion Database: http://ebmdb.tuebingen.mpg.de/index.php
 - Human 3.6M: http://vision.imar.ro/human3.6m/
 - Interaction Database CGVU @ The University of Edinburgh: http://www.ipab.inf.ed.ac.uk/cgvu/InteractionDatabase/interactiondb.html
+
+## Motion capture (kinematics and/or forces) data sets (other formats only)
 - Luo, Yue; Coppola, Sarah; Dixon, Philippe; Li, Song; Dennerlein, Jack; Hu, Boyi (2020): A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4892463.v1
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
