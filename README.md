@@ -59,6 +59,7 @@ Please check the license of invidual data set before using it.
 - Vieten, Manfred, & Weich, Christian. (2019). The kinematics of cyclic human movement [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3518415
 
 ## [Other] data sets
+- AMASS: https://amass.is.tue.mpg.de/
 - WhoLoDance: http://www.wholodance.eu/
 - AIST Gait Database 2019: https://unit.aist.go.jp/harc/ExPART/GDB2019_e.html
 - Ilaria Mileti, Aurora Serra, Nerses Wolf, Victor Munoz-Martel, Antonis Ekizos, Eduardo Palermo, … Alessandro Santuz. (2020). Muscle activation patterns are more constrained and regular in treadmill than in overground human locomotion (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3932768
