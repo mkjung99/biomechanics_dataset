@@ -40,6 +40,7 @@ Please check the license of invidual data set before using it.
 - Berkeley Multimodal Human Action Database (MHAD): https://tele-immersion.citris-uc.org/berkeley_mhad
 - Dance Motion Capture Database: http://dancedb.eu/
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
+- Cologne Motion Capture Database: https://mocap.web.th-koeln.de/
 - AnDyDataset: https://andydataset.loria.fr/
 - Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
 - Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
