@@ -25,11 +25,12 @@ Please check the license of invidual data set before using it.
 - Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
 ### Other file formats
-- Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
+- Krasoulis, Agamemnon; Vijayakumar, Sethu; Nazarpour, K. (2019): EMG and data glove dataset for dexterous myoelectric control. Newcastle University. Dataset. https://doi.org/10.25405/data.ncl.9577598.v1
 - Donati, Elisa. (2019). EMG from forearm datasets for hand gestures recognition [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3194792
 - Jarque-Bou, Nestor, Vergara, Margarita, Sancho-Bru, Joaquín L., Gracia-Ibáñez, Verónica, & Roda-Sales, Alba. (2019). A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3469380
 - De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
 - Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
+- Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
 
 ## [Kinematics only] data sets
 ### With C3D files
