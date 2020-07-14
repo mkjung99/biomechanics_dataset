@@ -73,6 +73,8 @@ Please check the license of invidual data set before using it.
 - Mohr, Maurice; von Tscharner, Vinzenz; Emery, Carolyn ; Nigg, Benno (2019), “Data for: Surface EMG muscle activation patterns of the lower extremities during gait in individuals with and without a knee injury history”, Mendeley Data, v1
 http://dx.doi.org/10.17632/f2fv7gb577.1
 - Kerkman, Jennifer, Daffertshofer, Andreas, & Boonstra, Tjeerd. (2018). Muscle activity, ground reaction forces and pointing performance during postural control tasks in healthy adults [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1185196
+- Liew, Bernard; Yu, Yue (Ryan); Cescon, Corrado; Barbero, Marco; Falla, Deborah (2018), “HDsEMG data analysis using R-INLA”, Mendeley Data, v1
+http://dx.doi.org/10.17632/8hdb83vdvt.1
 
 ## C3D libraries
 - [C3Dserver](https://www.c3dserver.com/)
