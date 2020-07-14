@@ -31,6 +31,7 @@ Please check the license of invidual data set before using it.
 - De Graaf, Myriam Lauren, Hubert, Juul, Houdijk, Han, & Bruijn, Sjoerd M. (2019). Data: Influence of Arm Swing on Cost of Transport during Walking [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2671651
 - Mohammadreza Mahaki, Sjoerd M. Bruijn, & Jaap H. van Dieën. (2019). Data: The effect of external lateral stabilization on the use of foot placement to control mediolateral stability in walking and running [Data set]. http://dx.doi.org/10.7717/peerj.7939. Zenodo. http://doi.org/10.5281/zenodo.3468501
 - Hu, Blair (2018): Benchmark datasets for bilateral lower limb neuromechanical signals from wearable sensors during unassisted locomotion in able-bodied individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5362627.v2
+- HuGaDB: https://github.com/romanchereshnev/HuGaDB
 
 ## [Kinematics only] data sets
 ### With C3D files
