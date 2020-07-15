@@ -25,6 +25,7 @@ Please check the license of invidual data set before using it.
 - Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
 ### Other file formats
+- Matran-Fernandez, A., Rodríguez Martínez, I.J., Poli, R. et al. SEEDS, simultaneous recordings of high-density EMG and finger joint angles during multiple hand movements. Sci Data 6, 186 (2019). https://doi.org/10.1038/s41597-019-0200-9 ([data](https://doi.org/10.17605/OSF.IO/WA3QK))
 - Krasoulis, Agamemnon; Vijayakumar, Sethu; Nazarpour, K. (2019): EMG and data glove dataset for dexterous myoelectric control. Newcastle University. Dataset. https://doi.org/10.25405/data.ncl.9577598.v1
 - Donati, Elisa. (2019). EMG from forearm datasets for hand gestures recognition [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3194792
 - Jarque-Bou, Nestor, Vergara, Margarita, Sancho-Bru, Joaquín L., Gracia-Ibáñez, Verónica, & Roda-Sales, Alba. (2019). A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3469380
