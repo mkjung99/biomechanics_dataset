@@ -21,6 +21,7 @@ Please check the license of invidual data set before using it.
 - Matijevich, E. S., Branscombe, L. M., Scott, L. R., & Zelik, K. E. (2019). Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: Implications for science, sport and wearable tech. PloS one, 14(1), e0210000. https://doi.org/10.1371/journal.pone.0210000 ([data](https://zenodo.org/record/3460691))
 - Honert, Eric C., & Zelik, Karl E. (2019). Dataset from: Honert and Zelik (2019) "Foot and shoe responsible for majority of soft tissue work in early stance of walking" [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2547035
 - Caravan A, Scheffey JO, Briend SJ, Boddy KJ. 2018. Surface electromyographic analysis of differential effects in kettlebell carries for the serratus anterior muscles. PeerJ 6:e5044 https://doi.org/10.7717/peerj.5044 ([data](https://figshare.com/authors/Kyle_Boddy/5269118))
+- Deborah A. Jehu, Hiram Cantu, Allen Hill, Caroline Paquette, Julie N. Cote, & Julie Nantel. (2018). Standing repetitive pointing task in individuals with and without Parkinson's disease (Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1199647
 - Ozkaya, Gizem; Jung, Hae Ryun; Jeong, In Sub; Choi, Min Ra; Shin, Min Young; Lin, Xue; et al. (2018): Three-dimensional motion capture data during repetitive overarm throwing practice. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4017808.v1
 - Lunn, David and Chapman, Graham and Redmond, Anthony (2018) Motion analysis in total joint replacement patients: Data Release 1. University of Leeds. [Dataset] https://doi.org/10.5518/345
 - Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
@@ -48,6 +49,7 @@ http://dx.doi.org/10.17632/37wyv32y8j.1
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Cologne Motion Capture Database: https://mocap.web.th-koeln.de/
 - AnDyDataset: https://andydataset.loria.fr/
+- Rengifo Rodas, Carlos Felipe; Caicedo Rodríguez, Pablo Eduardo ; Rodriguez Cheu, Luis Eduardo; Sierra Arevalo, Wilson Alexander; Gómez Guevara, Maria Catalina (2020), “Dataset for gait analysis and assessment of fall risk for older adults”, Mendeley Data, v1 http://dx.doi.org/10.17632/xzv6bjm9x2.1 
 - Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
 - Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
 - Malaisé, Adrien, Maurice, Pauline, Ivaldi, Serena, Colas, Francis, & Rochel, Olivier. (2018). AndyData-lab-onePersonWithShoes (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1472122
