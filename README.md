@@ -9,6 +9,7 @@ Please check the license of invidual data set before using it.
 - Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 ### Other file formats
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
+- Wang, Wei; Li, Ke; Yue, Shouwei; Yin, Cuiping; Wei, Na (2017): Associations between lower-limb muscle activation and knee flexion in post-stroke individuals: A study on the stance-to-swing phases of gait. PLOS ONE. Dataset. https://doi.org/10.1371/journal.pone.0183865
 
 ## [Kinematics + forces/EMG] data sets
 ### With C3D files
