@@ -77,6 +77,7 @@ http://dx.doi.org/10.17632/yp2s4rdjjk.1
 - AMASS: https://amass.is.tue.mpg.de/
 - WhoLoDance: http://www.wholodance.eu/
 - AIST Gait Database 2019: https://unit.aist.go.jp/harc/ExPART/GDB2019_e.html
+- Brokoslaw Laschowski, Reza Sharif Razavian, John McPhee, "Measurement and Simulation of Human Sitting and Standing Movement Biomechanics ", IEEE Dataport, 2019. [Online]. Available: http://dx.doi.org/10.21227/ky0b-fe94. Accessed: Aug. 06, 2020.
 - Ilaria Mileti, Aurora Serra, Nerses Wolf, Victor Munoz-Martel, Antonis Ekizos, Eduardo Palermo, … Alessandro Santuz. (2020). Muscle activation patterns are more constrained and regular in treadmill than in overground human locomotion (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3932768
 - Santuz, Alessandro, Ekizos, Antonis, Kunimasa, Yoko, Kijima, Kota, Ishikawa, Masaki, & Arampatzis, Adamantios. (2020). Lower complexity of motor primitives ensures robust control of high-speed human locomotion (Version 1.2.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3785077
 - Santuz, Alessandro, Ekizos, Antonis, Janshen, Lars, Mersmann, Falk, Bohm, Sebastian, Baltzopoulos, Vasilios, & Arampatzis, Adamantios. (2020). Modular control of human movement during running: an open access data set (Version 1.3.0) [Data set]. Frontiers in Physiology | Exercise Physiology. Zenodo. http://doi.org/10.5281/zenodo.3785076
