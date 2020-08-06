@@ -70,6 +70,8 @@ http://dx.doi.org/10.17632/37wyv32y8j.1
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
 - Vieten, Manfred, & Weich, Christian. (2019). The kinematics of cyclic human movement [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3518415
+- NIU, Haijun; SHEN, Fei; GAO, Xing; Fan, Yubo; WANG, Li; MA, Yingnan (2018), “Data for: Dynamic walking stability of elderly people with various BMIs”, Mendeley Data, v1
+http://dx.doi.org/10.17632/yp2s4rdjjk.1
 
 ## [Other] data sets
 - AMASS: https://amass.is.tue.mpg.de/
