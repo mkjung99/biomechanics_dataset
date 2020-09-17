@@ -30,6 +30,7 @@ Please check the license of invidual data set before using it.
 - Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
 ### Other file formats
 - Goršič, Maja, Dai, Boyi, & Novak, Domen. (2020). Load position and weight classification during carrying gait using wearable inertial and electromyographic sensors [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3941377
+- Wu, Amy R; Simpson, Cole S; van Asseldonk, Edwin HF; van der Kooij, Herman; Ijspeert, Auke J, 2019, "Mechanics of very slow human walking", https://doi.org/10.5683/SP2/EMQLLE, Scholars Portal Dataverse, V2, UNF:6:1F60fhDr/grQicUsGV68gQ== [fileUNF]
 - Matran-Fernandez, A., Rodríguez Martínez, I.J., Poli, R. et al. SEEDS, simultaneous recordings of high-density EMG and finger joint angles during multiple hand movements. Sci Data 6, 186 (2019). https://doi.org/10.1038/s41597-019-0200-9 ([data](https://doi.org/10.17605/OSF.IO/WA3QK))
 - Krasoulis, Agamemnon; Vijayakumar, Sethu; Nazarpour, K. (2019): EMG and data glove dataset for dexterous myoelectric control. Newcastle University. Dataset. https://doi.org/10.25405/data.ncl.9577598.v1
 - Donati, Elisa. (2019). EMG from forearm datasets for hand gestures recognition [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3194792
