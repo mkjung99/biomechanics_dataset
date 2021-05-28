@@ -71,6 +71,7 @@ http://dx.doi.org/10.17632/37wyv32y8j.1
 - Interaction Database CGVU @ The University of Edinburgh: http://www.ipab.inf.ed.ac.uk/cgvu/InteractionDatabase/interactiondb.html
 - MoCap ULL Project: http://atrae.webs.ull.es/capturadormovimiento/
 - HumanEva: http://humaneva.is.tue.mpg.de/
+- Nicora, E., Goyal, G., Noceti, N., Vignolo, A., Sciutti, A., & Odone, F. (2020). The MoCA dataset, kinematic and multi-view visual streams of fine-grained cooking actions. Scientific Data, 7(1), 1-15. https://doi.org/10.1038/s41597-020-00776-9 ([data](https://doi.org/10.6084/m9.figshare.c.4899819))
 - Luo, Yue; Coppola, Sarah; Dixon, Philippe; Li, Song; Dennerlein, Jack; Hu, Boyi (2020): A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4892463.v1
 - Schwarz, Anne, Bhagubai, Miguel M. C., Wolterink Gerjan, Held, Jeremia P. O., Luft, Andreas R., & Veltink, Peter H. (2020). Kinematics of reach-to-grasp and displacement after stroke [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3930752
 - Schwarz, Anne, Held, Jeremia P. O., & Luft, Andreas R. (2020). Post-stroke upper limb kinematics of a set of daily living tasks (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713449
