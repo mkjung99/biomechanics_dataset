@@ -79,6 +79,7 @@ http://dx.doi.org/10.17632/yp2s4rdjjk.1
 - AMASS: https://amass.is.tue.mpg.de/
 - WhoLoDance: http://www.wholodance.eu/
 - AIST Gait Database 2019: https://unit.aist.go.jp/harc/ExPART/GDB2019_e.html
+- Malešević, N., Olsson, A., Sager, P., Andersson, E., Cipriani, C., Controzzi, M., ... & Antfolk, C. (2021). A database of high-density surface electromyogram signals comprising 65 isometric hand gestures. Scientific Data, 8(1), 1-10. https://doi.org/10.1038/s41597-021-00843-9
 - Brokoslaw Laschowski, Reza Sharif Razavian, John McPhee, "Measurement and Simulation of Human Sitting and Standing Movement Biomechanics ", IEEE Dataport, 2019. [Online]. Available: http://dx.doi.org/10.21227/ky0b-fe94. Accessed: Aug. 06, 2020.
 - Ilaria Mileti, Aurora Serra, Nerses Wolf, Victor Munoz-Martel, Antonis Ekizos, Eduardo Palermo, … Alessandro Santuz. (2020). Muscle activation patterns are more constrained and regular in treadmill than in overground human locomotion (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3932768
 - Santuz, Alessandro, Ekizos, Antonis, Kunimasa, Yoko, Kijima, Kota, Ishikawa, Masaki, & Arampatzis, Adamantios. (2020). Lower complexity of motor primitives ensures robust control of high-speed human locomotion (Version 1.2.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3785077
