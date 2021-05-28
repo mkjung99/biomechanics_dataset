@@ -18,6 +18,7 @@ Please check the license of invidual data set before using it.
 - Orthoload: https://orthoload.com/
 - Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
+- Liang, P., Kwong, W. H., Sidarta, A., Yap, C. K., Tan, W. K., Lim, L. S., ... & Ang, W. T. (2020). An Asian-centric human movement database capturing activities of daily living. Scientific Data, 7(1), 1-13. https://doi.org/10.1038/s41597-020-00627-7 ([data](https://doi.org/10.21979/N9/7VF22X))
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
 - Horst, Fabian; Lapuschkin, Sebastian; Samek, Wojciech; Müller, Klaus-Robert; Schöllhorn, Wolfgang I. (2019), “A public dataset of overground walking kinetics and full-body kinematics in healthy adult individuals”, Mendeley Data, v3 http://dx.doi.org/10.17632/svx74xcrjr.3
 - Matijevich, E. S., Branscombe, L. M., Scott, L. R., & Zelik, K. E. (2019). Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: Implications for science, sport and wearable tech. PloS one, 14(1), e0210000. https://doi.org/10.1371/journal.pone.0210000 ([data](https://zenodo.org/record/3460691))
