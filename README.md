@@ -10,7 +10,7 @@ Please check the license of invidual data set before using it.
 - Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
 ### Other file formats
 - R Macaluso, K Embry, D Villarreal, R Gregg, "Human Leg Kinematics, Kinetics, and EMG during Phase-Shifting Perturbations at Varying Inclines", IEEE Dataport, 2020. [Online]. Available: http://dx.doi.org/10.21227/12hp-e249
-- Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
+- Lencioni, T., Carpinella, I., Rabuffetti, M., Marzegan, A., & Ferrarin, M. (2019). Human kinematic, kinetic and EMG data during different walking and stair ascending and descending tasks. Scientific data, 6(1), 1-10. https://doi.org/10.1038/s41597-019-0323-z ([data](https://doi.org/10.6084/m9.figshare.c.4494755.v1))
 - K. Embry, D. Villarreal, R. Macaluso, R. Gregg, "The Effect of Walking Incline and Speed on Human Leg Kinematics, Kinetics, and EMG", IEEE Dataport, 2018. [Online]. Available: http://dx.doi.org/10.21227/gk32-e868
 - Wang, W., Li, K., Yue, S., Yin, C., & Wei, N. (2017). Associations between lower-limb muscle activation and knee flexion in post-stroke individuals: A study on the stance-to-swing phases of gait. PLoS One, 12(9), e0183865. https://doi.org/10.1371/journal.pone.0183865
 
