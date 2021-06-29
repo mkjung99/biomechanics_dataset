@@ -58,6 +58,7 @@ http://dx.doi.org/10.17632/37wyv32y8j.1
 - The UMPM Benchmark: http://www2.projects.science.uu.nl/umpm/
 - Cologne Motion Capture Database: https://mocap.web.th-koeln.de/
 - AnDyDataset: https://andydataset.loria.fr/
+- Szczęsna, A., Błaszczyszyn, M., & Pawlyta, M. (2021). Optical motion capture dataset of selected techniques in beginner and advanced Kyokushin karate athletes. Scientific Data, 8(1), 1-12. https://doi.org/10.1038/s41597-021-00801-5 ([data](https://doi.org/10.6084/m9.figshare.c.4981073))
 - Rengifo Rodas, Carlos Felipe; Caicedo Rodríguez, Pablo Eduardo ; Rodriguez Cheu, Luis Eduardo; Sierra Arevalo, Wilson Alexander; Gómez Guevara, Maria Catalina (2020), “Dataset for gait analysis and assessment of fall risk for older adults”, Mendeley Data, v1 http://dx.doi.org/10.17632/xzv6bjm9x2.1 
 - Boddy, K. J., Marsh, J. A., Caravan, A., Lindley, K. E., Scheffey, J. O., & O’Connell, M. E. (2019). Exploring wearable sensors as an alternative to marker-based motion capture in the pitching delivery. PeerJ, 7, e6365. https://doi.org/10.7717/peerj.6365
 - Maurice, Pauline, Malaisé, Adrien, Ivaldi, Serena, Rochel, Olivier, Amiot, Clelie, Paris, Nicolas, … Fritzsche, Lars. (2019). AndyData-lab-onePerson (Version 2) [Data set]. The International Journal of Robotics Research. Zenodo. http://doi.org/10.5281/zenodo.3254403
