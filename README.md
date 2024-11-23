@@ -5,6 +5,7 @@ Please check the license of invidual data set before using it.
 ## [Kinematics + forces + EMG] data sets
 ### With C3D files
 - CAMS-Knee: https://cams-knee.orthoload.com/
+- Perera, C. K., Hussain, Z., Khant, M., Gopalai, A. A., Gouwanda, D., & Ahmad, S. A. (2024). A Motion Capture Dataset on Human Sitting to Walking Transitions. Scientific Data, 11(1), 878. https://doi.org/10.1038/s41597-024-03740-z ([data](https://doi.org/10.26180/24515092.v4))
 - Moreira, L., Figueiredo, J., Fonseca, P., Vilas-Boas, J. P., & Santos, C. P. (2021). Lower limb kinematic, kinetic, and EMG data from young healthy humans during walking at controlled speeds. Scientific Data, 8(1), 1-11. https://doi.org/10.1038/s41597-021-00881-3 ([data](https://doi.org/10.6084/m9.figshare.c.4923162))
 - Schreiber, C., & Moissenet, F. (2019). A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. Scientific data, 6(1), 1-7. https://doi.org/10.1038/s41597-019-0124-4 ([data](https://doi.org/10.6084/m9.figshare.7734767.v8))
 - Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
