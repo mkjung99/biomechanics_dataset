@@ -95,6 +95,9 @@ http://dx.doi.org/10.17632/37wyv32y8j.1
 - Vieten, Manfred, & Weich, Christian. (2019). The kinematics of cyclic human movement [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3518415
 - NIU, Haijun; SHEN, Fei; GAO, Xing; Fan, Yubo; WANG, Li; MA, Yingnan (2018), “Data for: Dynamic walking stability of elderly people with various BMIs”, Mendeley Data, v1
 http://dx.doi.org/10.17632/yp2s4rdjjk.1
+- NIU, Haijun; SHEN, Fei; GAO, Xing; Fan, Yubo; WANG, Li; MA, Yingnan (2018), “Data for: Dynamic walking stability of elderly people with various BMIs”, Mendeley Data, v1
+http://dx.doi.org/10.17632/yp2s4rdjjk.1
+- Spartacus: [data](https://github.com/Spartacus-shoulder-kinematics-dataset/shoulder-kinematics), Moissenet, F., Puchaud, P., Naaim, A., Holzer, N., & Begon, M. (2025). Spartacus: A review and aggregation of reference datasets reporting the normal shoulder girdle kinematics during uniplanar humerus motions. Journal of Biomechanics, 112642.
 
 ## [Other] data sets
 - AMASS: https://amass.is.tue.mpg.de/
